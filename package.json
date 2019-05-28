@@ -1,0 +1,23 @@
+{
+  "name": "writeutf",
+  "version": "1.0.0",
+  "description": "DataOutputStream.writeUTF equivalent in Node.js and browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nao20010128nao/nodejs-writeutf.git"
+  },
+  "keywords": [
+    "bytes",
+    "utf"
+  ],
+  "author": "nao20010128nao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nao20010128nao/nodejs-writeutf/issues"
+  },
+  "homepage": "https://github.com/nao20010128nao/nodejs-writeutf#readme"
+}
